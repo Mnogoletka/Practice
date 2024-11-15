@@ -1,0 +1,9 @@
+Task37
+
+XPath_Friends
+
+a). h1
+b). h1parentcenter
+c). div[@class='cat-nazva']
+d). a[@href=''][@class='logo']
+e). Назву будь-якого тегу можна замінити *.
