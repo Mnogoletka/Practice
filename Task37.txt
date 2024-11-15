@@ -1,5 +1,7 @@
 Task37
 
+XPath_Friends
+
 a). //h1
 b). //h1/parent::center
 c). //div[@class='cat-nazva']
